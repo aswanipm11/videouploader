@@ -1,0 +1,98 @@
+{
+  "videos": [
+    {
+      "id": 5,
+      "caption": "STAY Ft K.S. Chithra | Stay X Pon Kasavu Six Eight Edit | The Kid LAROI & Justin Bieber",
+      "cover_image": "https://i.postimg.cc/wTYWzJ1x/download-1.jpg",
+      "video_url": "https://www.youtube.com/embed/Xx6SKzOUqhQ?autoplay=1"
+    },
+    {
+      "id": 6,
+      "caption": "Oggy and the Cockroaches ",
+      "cover_image": "https://i.postimg.cc/Dyt8mHpr/oggy.jpg",
+      "video_url": "https://www.youtube.com/embed/_KDMwjh68cg&t=24s?autoplay=1"
+    },
+    {
+      "id": "lo77ygcl",
+      "caption": "Karikku",
+      "cover_image": "https://i.postimg.cc/NfJnYZYB/download.png",
+      "video_url": "https://www.youtube.com/embed/kW0E_TcHgzg?autoplay=1"
+    },
+    {
+      "id": "lo780o4s",
+      "caption": "Manithan - Aval Video ",
+      "cover_image": "https://i.postimg.cc/258gnvYF/download-2.jpg",
+      "video_url": "https://www.youtube.com/embed/My_S68DAAPg?autoplay=1"
+    },
+    {
+      "id": 7,
+      "caption": "keralablasters",
+      "cover_image": "https://i.postimg.cc/7661YxVv/download-1.png",
+      "video_url": "https://www.youtube.com/embed/Yx9bWF7ZllI?autoplay=1"
+    }
+  ],
+  "categories": [
+    {
+      "id": 2,
+      "name": "entertainment",
+      "videos": [
+        {
+          "id": 5,
+          "caption": "STAY Ft K.S. Chithra | Stay X Pon Kasavu Six Eight Edit | The Kid LAROI & Justin Bieber",
+          "cover_image": "https://i.postimg.cc/wTYWzJ1x/download-1.jpg",
+          "video_url": "https://www.youtube.com/embed/Xx6SKzOUqhQ?autoplay=1"
+        },
+        {
+          "id": "lo780o4s",
+          "caption": "Manithan - Aval Video ",
+          "cover_image": "https://i.postimg.cc/258gnvYF/download-2.jpg",
+          "video_url": "https://www.youtube.com/embed/My_S68DAAPg?autoplay=1"
+        }
+      ]
+    },
+    {
+      "id": "lob2q73u",
+      "name": "cartoon",
+      "videos": [
+        {
+          "id": 6,
+          "caption": "Oggy and the Cockroaches ",
+          "cover_image": "https://i.postimg.cc/Dyt8mHpr/oggy.jpg",
+          "video_url": "https://www.youtube.com/embed/_KDMwjh68cg&t=24s?autoplay=1"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "sports",
+      "videos": [
+        {
+          "id": 7,
+          "caption": "keralablasters",
+          "cover_image": "https://i.postimg.cc/7661YxVv/download-1.png",
+          "video_url": "https://www.youtube.com/embed/Yx9bWF7ZllI?autoplay=1"
+        }
+      ]
+    }
+  ],
+  "histories": [
+    {
+      "id": 1,
+      "video_title": "Oggy and the Cockroaches",
+      "url": "https://www.youtube.com/embed/_KDMwjh68cg&t=24s?autoplay=1",
+      "date": "march 18 6th 2003 9:05 AM"
+    },
+    {
+      "id": "lobcidrz",
+      "video_title": "STAY Ft K.S. Chithra | Stay X Pon Kasavu Six Eight Edit | The Kid LAROI & Justin Bieber",
+      "url": "https://www.youtube.com/embed/Xx6SKzOUqhQ?autoplay=1",
+      "date": "2023-10-29 4:16:03 PM"
+    },
+    {
+      "id": "lobmzz2k",
+      "video_title": "keralablasters",
+      "url": "https://www.youtube.com/embed/Yx9bWF7ZllI?autoplay=1",
+      "date": "2023-10-29 9:09:39 PM"
+    }
+  ]
+}
